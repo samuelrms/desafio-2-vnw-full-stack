@@ -56,7 +56,7 @@ http://localhost:5000/
 
 ## Estrutura do Projeto Atualizada 📂
 
-```json
+```bash
 livros-api/
 ├── app/              # Código da aplicação
 ├── docker-compose.yml# Configuração Docker
