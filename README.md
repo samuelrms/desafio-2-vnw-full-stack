@@ -54,7 +54,7 @@ http://localhost:5000/
 | `docker compose down` | Para e remove containers |
 | `docker compose logs` | Mostra logs da aplicação |
 
-## Estrutura do Projeto Atualizada 📂
+## Estrutura do Projeto 📂
 
 ```bash
 livros-api/
