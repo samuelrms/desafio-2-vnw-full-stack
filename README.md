@@ -24,7 +24,7 @@ Siga [as instruções anteriores](#opção-1---sem-docker) para instalação man
 ### 1. Clonar repositório
 
 ```bash
-git clone https://github.com/seu-usuario/livros-api.git
+git clone https://github.com/samuelrms/desafio-2-vnw-full-stack.git
 cd livros-api
 ```
 
