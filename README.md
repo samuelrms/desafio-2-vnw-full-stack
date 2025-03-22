@@ -58,11 +58,11 @@ http://localhost:5000/
 
 ```bash
 livros-api/
-├── app/              # Código da aplicação
+├── app/               # Código da aplicação
 ├── docker-compose.yml # Configuração Docker
-├── Dockerfile        # Definição da imagem
-├── .env.example      # Modelo de variáveis de ambiente
-└── database.db       # Banco de dados (gerado automaticamente)
+├── Dockerfile         # Definição da imagem
+├── .env.example       # Modelo de variáveis de ambiente
+└── database.db        # Banco de dados (gerado automaticamente)
 ```
 
 ## Configuração de Ambiente ⚙️
